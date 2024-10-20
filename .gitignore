@@ -4,6 +4,15 @@
 /node_modules
 /.pnp
 .pnp.js
+__pycache__/
+*.pyc
+*.log
+*.sqlite3
+venv/
+env/
+media/
+static/
+*.env
 
 # testing
 /coverage
